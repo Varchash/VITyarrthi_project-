@@ -5,15 +5,15 @@ The toolkit is a command line interface , made to save time in doing calcualtion
 
 ## 🧑🏻‍🚀 FEATURES 
 - Reisitor resistance decoder -- Converts color bands (4-band resistors) into ohm values
-![RESISTANCE TEST IMG](screenshots\resistance_test.png)
+![RESISTANCE TEST IMG](VITYARTHI/screenshots/resistance_test.png)
 - GCD calculator -- Finds the Greatest Common Divisor of two integers
-![GCD TEST IMG](screenshots\GCD_test.png)
+![GCD TEST IMG](VITYARTHI/screenshots/GCD_test.png)
 - Root finder -- Computes Square Roots and Cube Roots (handles negative numbers)
-! [ROOT TEST IMG](screenshots\root_test.pngg)
+! [ROOT TEST IMG](VITYARTHI/screenshots/root_test.png)
 - AP calculator -- Finds the Nth term and the Sum of an Arithmetic Progression series
-! [AP TEST IMAGE](screenshots\ap_test.png)
+! [AP TEST IMAGE](VITYARTHI/screenshots/ap_test.png)
 - resistance calulcator -- Calculates total resistance for Series and Parallel circuit
-![OHM TEST IMG](screenshots\ohm_test.png)
+![OHM TEST IMG](VITYARTHI/screenshots/ohm_test.png)
 ## 🔦 SYSTEM REQUIREMENTS 
 - Language -- Python 3.x
 - OS -- Windows, macOS, or Linux
